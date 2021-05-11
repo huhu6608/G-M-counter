@@ -1,5 +1,13 @@
 # G-M-counter
-Geiger-Müller counter sch&amp;layout for СИ3BG
+Geiger-Müller counter sch&amp;layout for СИ3БГ
+
+Счетчик СИ3БГ, где:
+СИ - счетчик импульсов.
+3 - порядковый номер разработки.
+Вид излучения:         //辐射类型：
+- Б - бета-излучение;  //β辐射
+- Г - гамма-излучение. //γ辐射
+
  ![image](https://github.com/huhu6608/G-M-counter/raw/master/a.jpg)
  ![image](https://github.com/huhu6608/G-M-counter/raw/master/b.jpg)
 
